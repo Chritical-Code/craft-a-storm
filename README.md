@@ -1,4 +1,4 @@
-An unofficial Minecraft datapack designed to work with ProtoManly's Weather mod.
+A Minecraft (1.21.1) datapack designed to work (unofficialy) with ProtoManly's Weather mod.
 
 Any time an item is "crafted" (or smelted, apparently), it spawns a supercell.
 
