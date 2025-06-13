@@ -7,4 +7,4 @@ Notes for future me:
 +Maybe optimize by ticking in chunks rather than the whole list
 +Consider adding a cooldown for storm spawning
 +Consider adding pseudo-randomness (list and counter), to rarely spawn a tornado (offset from player)
-+Maybe rename the objectives to match item names
++Rename objectives more professionally and add a delete objectives function
