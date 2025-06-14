@@ -1,3 +1,7 @@
+#initialize timer objective
+scoreboard objectives add craft-a-storm.timer dummy
+
+#initialize crafting objectives
 scoreboard objectives add 0 minecraft.crafted:minecraft.acacia_boat
 scoreboard objectives add 1 minecraft.crafted:minecraft.acacia_button
 scoreboard objectives add 2 minecraft.crafted:minecraft.acacia_chest_boat
