@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 48,
-        "description": "Learning how to do datapack :)"
+        "description": "Spawns a storm after crafting."
     }
 }
