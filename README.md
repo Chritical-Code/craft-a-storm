@@ -1,6 +1,6 @@
 A Minecraft (1.21.1) datapack designed to work (unofficialy) with ProtoManly's Weather mod.
 
-Any time an item is "crafted" (or smelted, apparently), it spawns a supercell.
+Any time an item is crafted, it spawns a storm.
 
 Notes for future me:
 +Maybe optimize by ticking in chunks rather than the whole list
